@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. lecture
+2. all the things
 3. interesting labs
 
 **Bold** and _Italic_ and `Code` text
