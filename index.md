@@ -12,14 +12,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Tianyi Wang's first CS193 Lab
-## Favorite thing about cs 19300: lab
+## FHeader 2
 ### Header 3
 
-- 'Bulleted'
+- Bulleted
 - List
 
 1. Numbered
 2. List
+3. interesting labs
 
 **Bold** and _Italic_ and `Code` text
 
